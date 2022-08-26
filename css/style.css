@@ -1,12 +1,12 @@
 .box{
-	height: 100vh;
+    height: 100vh; /* vertical height */
 	
     font-family: 'Poppins', sans-serif;
-	font-size: 30px;
-	font-weight: 500;
-	color: white;
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
 
-	display: flex;
+    display: flex;
     text-align: center;
     align-items: center;
 }
